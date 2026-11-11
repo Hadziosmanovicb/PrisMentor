@@ -1,0 +1,23 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# API keys
+.env
+.env.*
+!.env.example
+
+# Machine Learning
+*.pkl
+*.joblib
+*.cbm
+
+# Datasets
+data/raw/
+data/processed/
+
+# React
+node_modules/
+dist/
